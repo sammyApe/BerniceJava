@@ -8,7 +8,6 @@ public class ClassDay5 {
         System.out.println("print me");
 
     }
-    git config --global user.name "Yaajava"
-    $ git config --global user.email johndoe@example.com
+
 
 }
