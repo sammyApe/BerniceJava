@@ -70,7 +70,7 @@ public class ClassDay5 {
 
     }
     // I did the question 2 in two different ways because I wasn't sure of your expectation.
-    // I do have a question on the first one though.
+
 
 
 }
